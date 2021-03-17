@@ -1,0 +1,22 @@
+body {
+}
+
+code {
+}
+
+.collection-item.avatar.purchased {
+    filter: saturate(15%);
+}
+
+.collection-item.avatar {
+    user-select: none;
+}
+
+form button {
+    width: 100px;
+    margin-top: 0.5em;
+}
+
+ul li a.active {
+    filter: invert(1);
+}
